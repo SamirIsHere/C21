@@ -1,2 +1,2 @@
-# C21
-YouJustGotRect
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
